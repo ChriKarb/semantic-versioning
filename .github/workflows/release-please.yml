@@ -1,9 +1,13 @@
-name: Release Please
-
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please
 
 jobs:
   release-please:
@@ -12,5 +16,5 @@ jobs:
       - uses: GoogleCloudPlatform/release-please-action@3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          release-type: node
-          package-name: component
+          release-type: helm
+          package-name: hello-world
