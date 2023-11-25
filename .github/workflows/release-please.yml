@@ -13,8 +13,7 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: GoogleCloudPlatform/release-please-action@3
+      - uses: google-github-actions/release-please-action@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           release-type: helm
           package-name: hello-world
