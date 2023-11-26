@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.3...v1.1.4) (2023-11-26)
+
+
+### Bug Fixes
+
+* Create fix3.txt ([2e1fe30](https://github.com/ChriKarb/semantic-versioning/commit/2e1fe30f219016e7b377eefdcb41d4dd487e3ec0))
+
 ## [1.1.3](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.2...v1.1.3) (2023-11-26)
 
 
