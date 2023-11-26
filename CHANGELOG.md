@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.2](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.1...v1.1.2) (2023-11-26)
+
+
+### Features
+
+* Update README.md ([19a5405](https://github.com/ChriKarb/semantic-versioning/commit/19a54055e71c1254d95119a68921d206c2315a75))
+
+
+### Bug Fixes
+
+* Create fix2.txt ([6f9edae](https://github.com/ChriKarb/semantic-versioning/commit/6f9edae9547da0b54ac04cb71850e52460478929))
+
 ## [1.1.1](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.0...v1.1.1) (2023-11-26)
 
 
