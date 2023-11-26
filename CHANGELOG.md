@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.2...v1.1.3) (2023-11-26)
+
+
+### Features
+
+* helm init ([ecb9280](https://github.com/ChriKarb/semantic-versioning/commit/ecb928005aee22cb6e9334a2b79782181e10df24))
+* Update README.md ([bda3142](https://github.com/ChriKarb/semantic-versioning/commit/bda3142f3d4ed4c9406fb860439ec870f22d2201))
+
 ## [1.1.2](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.1...v1.1.2) (2023-11-26)
 
 
