@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - main
+      - backport-fix-to-1.0.1
 
 permissions:
   contents: write
