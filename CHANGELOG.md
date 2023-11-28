@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.4...v1.1.5) (2023-11-28)
+
+
+### Bug Fixes
+
+* Update 123.txt ([25e2a73](https://github.com/ChriKarb/semantic-versioning/commit/25e2a7360e1d032d631c66546ab1b2606be2dd33))
+
 ## [1.1.4](https://github.com/ChriKarb/semantic-versioning/compare/v1.1.3...v1.1.4) (2023-11-26)
 
 
